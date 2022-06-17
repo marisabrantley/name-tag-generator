@@ -4,8 +4,8 @@ This project involved building a simple name tag generator that allows for creat
 
 ## Objective
 * Write a functional component that will build the text for each name tag.
-* Render the functional component.
-* Pass props through the functional component to add names to the name tags.
+* Create a callback function and map over the array of names.
+* Render the nametag.
 </br>
 
 <img width="734" alt="react-name-tag-generator" src="https://user-images.githubusercontent.com/60168324/171979426-8ce2227f-74f2-42f3-a9c0-321b2be100ce.png">
